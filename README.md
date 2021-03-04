@@ -90,15 +90,17 @@ You can download the latest version of pyroscope for macOS, linux and Docker fro
 
 Let us know what other integrations you want to see in [our slack](https://pyroscope.io/slack).
 
-## Contributing
-
-To start contributing, check out our [Contributing Guide](/CONTRIBUTING.md)
-
 ## Cloud
 
 Pyroscope Cloud is a fully-managed, continous profiling service powered by Pyroscope team. It is the fastests, easiest way to start using Pyroscope.
 
 Special Offer: first 100 users get 6 months of Pyroscope Cloud for free. Create a server [here](https://pyroscope.io/cloud).
+
+
+## Contributing
+
+To start contributing, check out our [Contributing Guide](/CONTRIBUTING.md)
+
 
 ### Thanks to the contributors of Pyroscope!
 
